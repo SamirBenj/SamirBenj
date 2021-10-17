@@ -7,4 +7,4 @@
   - Demo : https://youtu.be/nW1WIk0ieNc
 - DeliveryCrous : https://github.com/SamirBenj/DeliveryProject
   - https://youtu.be/uGjLV9320oA
-- Chat App with Firebase : https://youtu.be/VKUEzbh5qi0
+- Chat App with Firebase : https://youtu.be/P4Xa1aLtvMY
