@@ -2,7 +2,7 @@
 - 👋 I'm currently a student.
 - 👀 I’m interested in Flutter, html, css , mobile cross-platform developpment 
 - 🌱 I’m currently learning Flutter
-- I have Made 3 Projects(CovidInOne and DeliveryCrous)
+- I have Made 3 Projects(CovidInOne, DeliveryCrous and Chat App)
 - CovidInOne : https://github.com/SamirBenj/CovidInOne_Project
   - Demo : https://youtu.be/nW1WIk0ieNc
 - DeliveryCrous : https://github.com/SamirBenj/DeliveryProject
