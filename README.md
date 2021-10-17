@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter
 - I have Made 3 Projects(CovidInOne and DeliveryCrous)
 - CovidInOne : https://github.com/SamirBenj/CovidInOne_Project
-  - Demo :https://youtu.be/nW1WIk0ieNc
+  - Demo : https://youtu.be/nW1WIk0ieNc
 - DeliveryCrous : https://github.com/SamirBenj/DeliveryProject
   - https://youtu.be/uGjLV9320oA
 - Chat App with Firebase : https://youtu.be/VKUEzbh5qi0
