@@ -8,3 +8,7 @@
 - DeliveryCrous : https://github.com/SamirBenj/DeliveryProject
   - https://youtu.be/uGjLV9320oA
 - Chat App with Firebase : https://youtu.be/P4Xa1aLtvMY
+- NewsApp With React Native: https://github.com/SamirBenj/NewsAppProject
+   - https://www.youtube.com/watch?v=S7yQ74B9_YI
+   
+
