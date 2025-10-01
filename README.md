@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samir
-- 👋 I'm currently a student at UPHF Valenciennes
+- 👋 I'm currently a student at ESGI
 - 👀 I’m interested in Flutter, html, css , mobile cross-platform developpment 
 - 🌱 I’m currently learning Flutter and React Native
 - I have Made 3 Projects(CovidInOne, DeliveryCrous and Chat App)
